@@ -1,0 +1,37 @@
+
+/*modal-tabs-comentarios textarea*/
+textarea{width: 100%;margin-bottom: 29px;border-radius: 3px;}
+
+/*modal-panel-body-imagen*/
+.panel-body{border-style: ridge; border-width: 1px;}
+
+/*imagen del modal*/
+#image1{width: 100%;}
+
+/*texto en modal*/
+#textp{margin-top: 10px;}
+
+
+/*tamaño de ícono por defecto*/
+.material-icons{font-size: 14px;}
+
+#canasta{font-size: 13px;}
+
+/*giro 180 grados de ícono*/
+#alert1{transform: rotate( 180deg );}
+
+/*#estrella{font-size: 14px;}
+#corazon{font-size: 14px;}*/
+
+#buscador1{font-size: 17px;}
+
+/*espacio y ancho de columnas de productos camisas*/
+#cardimage{width:100%;margin: 0px 0px 10px 0px;}
+
+
+
+
+
+
+
+
